@@ -23,7 +23,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 
 | Rango                     | Miembro    | Rol                                                     |
 | ------------------------- | ---------- | ------------------------------------------------------- |
-| 🥇 Líder supremo          | Lex Luthor | Fundador, financista y estratega principal              |
+| 🥇 Líder supremo ddd         | Lex Luthor | Fundador, financista y estratega principal              |
 | 🥈 Segundo al mando       | Magneto    | Estratega militar y reclutamiento de mutantes           |
 | 🥉 Jefa de infiltración   | Mystique   | Espionaje, identidades falsas y operaciones encubiertas |
 | ⚙️ Director de tecnología | Brainiac   | Sistemas, armamento y recopilación de datos             |
