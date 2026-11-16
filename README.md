@@ -40,7 +40,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 ## Reglas de la Legión
 
 1. **Todo plan debe tener un plan de escape.** Sin excepciones.
-2. **Nada se ejecuta sin aprobación del Consejo.** Todos los planes pasan por revisión antes de llegar a `main`.
+2. **Nada se ejecuta sin aprobación del Consejo.** Todos lossss planes pasan por revisión antes de llegar a `main`.
 3. **Los códigos de lanzamiento JAMÁS se suben al repositorio.** El que los suba será entregado a Batman.
 4. **Los fracasos se documentan.** Aprendemos de ellos para la próxima vez.
 5. **Nada de monólogos explicando el plan al héroe.** Joker, esto va especialmente por ti.
