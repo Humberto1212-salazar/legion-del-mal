@@ -7,7 +7,7 @@
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivos.
 
-## Estructura de la organización!!
+## ssEstructura de la organización!!
 
 ```
 📁 planessssss/          → Operaciones aprobadas por el Consejo
